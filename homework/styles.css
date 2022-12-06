@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  margin-top: 5rem;
+}
+
+.whiteText {
+  color: #fff;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 60vh;
+  gap: 2rem;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+}
